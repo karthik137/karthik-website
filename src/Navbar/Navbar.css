@@ -6,3 +6,8 @@
     color: #fffdfd;
     text-decoration:none;
 }
+
+#navitem:hover {
+    color: rgba(177, 232, 248, 0.61);
+    text-decoration: none;
+}
