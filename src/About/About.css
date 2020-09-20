@@ -1,4 +1,6 @@
 .aboutcontainer{
+    color: #fffdfd;
     background-image: url(./rocker_space.png);
     background-size: cover;
+    min-height: 450px
   }
